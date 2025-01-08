@@ -240,8 +240,8 @@ const skillBaseData = {
     "Epiphany": { name: "Epiphany", maxXp: 100, heroxp: 280, effect: 0.012, description: "Galactic Council XP" },
 
     "Dark Prince": { name: "Dark Prince", maxXp: 100, heroxp: 350, effect: 0.01, description: "Skill XP" },
-    "Dark Ruler": { name: "Dark Ruler", maxXp: 100, heroxp: 375, effect: 0.0000015, description: "Dark Matter Gain" },
-    "Immortal Ruler": { name: "Immortal Ruler", maxXp: 100, heroxp: 425, effect: 0.01, description: "All XP" },
+    "Dark Ruler": { name: "Dark Ruler", maxXp: 100, heroxp: 375, effect: 0.00015, description: "Dark Matter Gain" },
+    "Immortal Ruler": { name: "Immortal Ruler", maxXp: 100, heroxp: 425, effect: 0.1, description: "All XP" },
     "Dark Magician": { name: "Dark Magician", maxXp: 100, heroxp: 475, effect: 0.0000025, description: "Essence Gain" },
     "Universal Ruler": { name: "Universal Ruler", maxXp: 100, heroxp: 500, effect: 1, description: "Magic XP" },
     "Blinded By Darkness": { name: "Blinded By Darkness", maxXp: 100, heroxp: 550, effect: 1, description: "All XP" },
